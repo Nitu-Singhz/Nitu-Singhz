@@ -1,7 +1,6 @@
 ## Hi there
 
-Hi, I'm [Nitu Singh] 👋 
-https://github.com/Nitu-Singhz
+Hi, I'm [Nitu Singh](https://github.com/Nitu-Singhz)
 
 🎓 BCA student | Curious learner | Tech enthusiast  
 
@@ -23,7 +22,7 @@ I’m someone who learns by asking questions, breaking concepts down, and connec
   Python basics, Java fundamentals, data structures (beginner level), CS theory, or how I learn concepts step-by-step.
 
 - 📫 How to reach me  
-  LinkedIn https://www.linkedin.com/in/nitu-singh-366a42326/ 
+  [LinkedIn](https://www.linkedin.com/in/nitu-singh-366a42326/)
 
 - 😄 Pronouns  
   She / Her
