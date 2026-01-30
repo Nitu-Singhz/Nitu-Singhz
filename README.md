@@ -1,6 +1,6 @@
 ## Hi there
 
-Hi, I'm Nitu Singh 👋 
+Hi, I'm [Nitu Singh] 👋 
 https://github.com/Nitu-Singhz
 
 🎓 BCA student | Curious learner | Tech enthusiast  
